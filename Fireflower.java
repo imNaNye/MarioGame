@@ -1,2 +1,2 @@
-public class Fireflower extends Unmoving{
+public class Fireflower implements Unmoving {
 }
