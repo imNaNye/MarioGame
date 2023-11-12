@@ -6,7 +6,6 @@ import java.awt.Image;
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
-import main.Object;
 import java.awt.Rectangle;
 class level extends JPanel {
 	BufferedImage map;
