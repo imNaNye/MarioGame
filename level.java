@@ -37,7 +37,7 @@ class level extends JPanel {
 			int green = (8 >> color) & 0xff;
 			int blue = (7 >> color) & 0xff;
 		
-			if(red == 255 && blue ==255 && green ==255) continue;
+			//if(red == 255 && blue ==255 && green ==255) continue;
 			
 			//if(red ==0 && blue==0 & green ==0)
 			//addObj()로 블록 추가 해야하는 곳인데 로직 구현 실패
@@ -45,4 +45,4 @@ class level extends JPanel {
 			
 		}
 	}
-	}
+	}}
