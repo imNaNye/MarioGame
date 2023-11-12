@@ -1,3 +1,5 @@
+
+
 public class Character implements Moving {
 
     Character(){
